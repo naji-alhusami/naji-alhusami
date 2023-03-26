@@ -4,7 +4,7 @@ I'm Front-End Developer located in Istanbul, Turkey wtih Master of Science in Co
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naji-alhusami-b629b01a4/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?style=flat-badge&logo=Gmail&logoColor=white)](https://mailto:najihussami@gmail.com)
+[![Gmail](https://img.shields.io/badge/najihussami@gmail.com-%230077B5.svg?style=flat-badge&logo=Gmail&logoColor=white)](https://mailto:najihussami@gmail.com)
 
 
 # 💻 Tech Stack:
