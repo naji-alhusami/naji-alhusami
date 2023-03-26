@@ -8,8 +8,8 @@ I'm Front-End Developer located in Istanbul, Turkey wtih Master of Science in Co
 
 # 💻 Tech Stack:
 
-  ![](https://img.shields.io/badge/-Git-E84D31?style=flat-square&logo=git&logoColor=ffffff)
-  ![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![Git](https://img.shields.io/badge/Git-E84D31.svg?style=for-the-badge&logo=git&logoColor=ffffff)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E44D27.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
