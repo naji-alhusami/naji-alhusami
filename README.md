@@ -1,11 +1,9 @@
+# 💫 About Me:  
 Hi, I'm NAJI!
 I'm Front-End Developer located in Istanbul, Turkey wtih Master of Science in Computer Engineering.
 
-# 💫 About Me:  
-Self-taught junior frontend developer with a passion for creating intuitive user experiences. Constantly improving skills and pushing boundaries on the web.
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasincandev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yasincandev) [![Outlook](https://img.shields.io/badge/-yasiincan@outlook.com-0077B5?style=flat-square&logo=Outlook&logoColor=white)](https://mailto:yasiincan@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naji-alhusami-b629b01a4/) [![Gmail](https://img.shields.io/badge/-yasiincan@outlook.com-0077B5?style=flat-square&logo=Outlook&logoColor=white)](https://mailto:najihussami@gmail.com)
 
 
 # 💻 Tech Stack:
