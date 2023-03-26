@@ -2,9 +2,9 @@
 Hi, I'm NAJI!
 I'm Front-End Developer located in Istanbul, Turkey wtih Master of Science in Computer Engineering.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naji-alhusami-b629b01a4/) 
-[![Gmail](https://img.shields.io/badge/-najihussami@gmail.com-0077B5?style=flat-badge&logo=Gmail&logoColor=white)](https://mailto:najihussami@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=flat-badge&logo=Gmail&logoColor=white)](https://mailto:najihussami@gmail.com)
 
 
 # 💻 Tech Stack:
