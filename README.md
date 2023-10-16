@@ -20,4 +20,3 @@ I'm Front-End Developer located in Istanbul, Turkey wtih Master of Science in Co
   ![NextJS](https://img.shields.io/badge/-Next.js-010100?style=for-the-badge&logo=next.js&logoColor=ffffff)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-    ![MongoDB](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
