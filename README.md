@@ -1,6 +1,6 @@
 # 💫 About Me:  
 Hi, I'm NAJI!
-I'm Full-Stack Developer Located in Munich, Germany wtih Master of Science in Computer Engineering.
+I'm Frontend Developer Located in Munich, Germany wtih Master of Science in Computer Engineering.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naji-alhusami-b629b01a4/) 
