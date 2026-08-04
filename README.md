@@ -2,7 +2,7 @@
 
 ### Full-Stack JavaScript Developer based in Germany
 
-I build modern, responsive web applications using TypeScript, React, and Next.js.
+I build modern, responsive web applications.
 
 I hold a Master of Science in Computer Engineering and I am currently expanding my backend, mobile development, and DevOps skills.
 
