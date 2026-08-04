@@ -1,22 +1,31 @@
-# 💫 About Me:  
-Hi, I'm NAJI!
-I'm Fullstack Developer Located in Germany wtih Master of Science in Computer Engineering.
+# Hi, I'm Naji Alhusami 👋
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naji-alhusami-b629b01a4/) 
-[![Gmail](https://img.shields.io/badge/najihussami@gmail.com-%230077B5.svg?style=flat-badge&logo=Gmail&logoColor=white)](https://mailto:najihussami@gmail.com)
+### Full-Stack JavaScript Developer based in Germany
 
+I build modern, responsive web applications using TypeScript, React, and Next.js.
 
-# 💻 Tech Stack:
+I hold a Master of Science in Computer Engineering and I am currently expanding my backend, mobile development, and DevOps skills.
 
-  ![Git](https://img.shields.io/badge/Git-E84D31.svg?style=for-the-badge&logo=git&logoColor=ffffff)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E44D27.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2338B2AC.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![NextJS](https://img.shields.io/badge/-Next.js-010100?style=for-the-badge&logo=next.js&logoColor=ffffff)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+- 🔭 Building practical full-stack applications and expanding my project portfolio
+- 💼 Open to full-stack development, freelance projects, and remote opportunities
+- 🤖 Aspiring AI Engineer, actively developing my skills in artificial intelligence and modern software development
+- 🌍 Based in Germany
+
+## Tech Stack
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
