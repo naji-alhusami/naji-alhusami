@@ -1,15 +1,14 @@
 # Hi, I'm Naji Alhusami 👋
 
-### Full-Stack JavaScript Developer based in Germany
+### Full-Stack Developer based in Germany
 
-I build modern, responsive web applications.
+I build modern, responsive, and user-friendly web applications.
 
-I hold a Master of Science in Computer Engineering and I am currently expanding my backend, mobile development, and DevOps skills.
+I hold a Master of Science in Computer Engineering.
 
-- 🔭 Building practical full-stack applications and expanding my project portfolio
-- 💼 Open to full-stack development, freelance projects, and remote opportunities
-- 🤖 Aspiring AI Engineer, actively developing my skills in artificial intelligence and modern software development
-- 🌍 Based in Germany
+- 🔭 Building practical Full-Stack applications and strengthening my project portfolio
+- 💼 Open to full-stack roles, freelance projects, and remote opportunities
+- 🤖 Working toward becoming an AI Engineer by developing my skills in artificial intelligence and software engineering
 
 ## Tech Stack
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
