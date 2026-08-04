@@ -6,8 +6,8 @@ I build modern, responsive, and user-friendly web applications.
 
 I hold a Master of Science in Computer Engineering.
 
-- 🔭 Building practical Full-Stack applications and strengthening my project portfolio
-- 💼 Open to full-stack roles, freelance projects, and remote opportunities
+- 🔭 Building practical FullStack applications and strengthening my project portfolio
+- 💼 Open to FullStack roles, freelance projects, and remote opportunities
 - 🤖 Working toward becoming an AI Engineer by developing my skills in artificial intelligence and software engineering
 
 ## Tech Stack
